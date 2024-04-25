@@ -121,7 +121,7 @@ app = ImageToSketchApp(root)
 root.mainloop()
 
 
-# In[ ]:
+
 
 
 
